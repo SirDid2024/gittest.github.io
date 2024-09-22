@@ -1,0 +1,33 @@
+---
+squadName:"Super hero squad"
+homeTown: Metro city
+formed: 2016
+SceretBase: Super Tower
+active: true
+members:
+    - name: Molecule Man
+      age: 29
+      SecretIdentity: Dan Jukes
+      Powers:
+        - Radiadant resistance
+        - Turning tiny
+        - Radiation blast
+
+    - name: Madam Uppercut
+       age: 39
+       SecretIdentitiy: Jane Wilson
+       Powers:
+        - Millon Tonne Punch
+        - Damage Resistance
+        - Superhman reflexes
+    
+    - name: Ethernal Flame
+      age: 100000
+      SecretIdentity: Unknown
+      Powers:
+        - Imortality
+        - Heat Immunity
+        - Inferno
+        - Teleporation
+        - Interdimensional travel
+---
